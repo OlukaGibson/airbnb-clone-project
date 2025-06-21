@@ -10,6 +10,48 @@ The Airbnb Clone Project is a backend-focused clone of the Airbnb platform. The 
 - Practice full-cycle software engineering with documentation and automation.
 - Apply team collaboration principles and CI/CD integration.
 
+
+## UI/UX Design Planning
+Before implementation, we planned the user interface to reflect an intuitive and engaging user experience, inspired by Airbnb’s aesthetics. We focused on:
+
+- User Journeys: Mapping flows for registration, property search, booking, and review.
+
+- Wireframes: Low-fidelity sketches outlining the layout of key pages (home, property listing, booking, etc.).
+
+- Design Tools Used: Figma, Whimsical.
+
+- Accessibility Goals: Ensuring color contrast, keyboard navigation, and screen reader compatibility.
+
+This section helped align developers and designers before actual development began.
+
+
+## Project Roles and Responsibilities
+Each team member contributed specific expertise to simulate a professional development environment:
+
+Role	            Team Member	    Responsibility
+UI/UX Designer	    [Name]	        Created wireframes, visual mockups, and user journey maps.
+Backend Developer	[Name]	        Built RESTful APIs, managed business logic and integrations.
+DevOps Engineer	    [Name]	        Set up CI/CD pipelines, Dockerized the app, and automated deployments.
+QA Engineer	        [Name]	        Designed test cases, performed API and UI testing, and handled bug tracking.
+Project Manager	    [Name]	        Coordinated communication, timelines, and task management via Trello or Jira.
+
+
+## UI Component Patterns
+To ensure design consistency and component reusability, we established common UI component patterns:
+
+- Navigation Bar: Persistent across pages with dynamic login/logout options.
+
+- Property Cards: Reusable cards showing property image, price, location, and ratings.
+
+- Modals: Used for booking confirmation, login, and review submission.
+
+- Forms: Uniform style across login, registration, property creation, and payment.
+
+- Status Indicators: Tags or icons to show booking status or payment state.
+
+These components were modular and followed responsive design best practices.
+
+
 ## Team Roles
 
 | Role | Responsibility |
